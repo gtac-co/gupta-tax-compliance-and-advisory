@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gtac-co.github.io/gupta-tax-compliance-and-advisory/sitemap.xml
